@@ -1,16 +1,20 @@
-## Hi there 👋
+Lectio: Pray like the Fathers is a guided prayer companion that helps you practice Lectio Divina, an ancient method of praying with Scripture that has been used by saints and spiritual masters for centuries.
 
-<!--
-**Lectio-Divina/Lectio-Divina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For Support please email:octave.resolve.0g@icloud.com
 
-Here are some ideas to get you started:
+FEATURES: • Step-by-step guidance through Lectio Divina prayer • Built-in timer to help you stay focused • Integrated web browser for Scripture readings • Personal prayer journal • Daily prayer streak tracking • Dark mode support • Silent mode for quiet prayer • Customizable step duration • Daily prayer reminders • Journal backup and export options
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+WHAT IS LECTIO DIVINA? Lectio Divina ("Divine Reading") is a traditional way of praying with Scripture passed down from the early Church Fathers. This app guides you through five simple steps:
+
+Silencio - Prepare your heart in silence
+Lectio - Read Scripture slowly and reverently
+Meditatio - Meditate on God's Word
+Oratio - Respond to God in prayer
+Contemplatio - Rest in God's presence
+The app concludes with a journaling step where you can record your thoughts and prayers.
+
+Perfect for: • Daily prayer routine • Deepening your relationship with God • Learning to pray with Scripture • Keeping a spiritual journal • Building a consistent prayer habit • Following the prayer methods of the Church Fathers
+
+Whether you're new to prayer or experienced in spiritual practices, Lectio provides gentle guidance while maintaining the sacred simplicity of this ancient prayer form.
+
+Download Lectio: Pray like the Fathers today and experience the timeless wisdom of praying with Scripture as the Church Fathers did.
