@@ -1,3 +1,7 @@
+UPDATE: This project has been moved a WebApp Platform: 
+Visit Here: https://divine-breath-lectio-divina-timer-661400234505.us-west1.run.app/
+
+
 Lectio: Pray like the Fathers is a guided prayer companion that helps you practice Lectio Divina, an ancient method of praying with Scripture that has been used by saints and spiritual masters for centuries.
 
 For Support please email:octave.resolve.0g@icloud.com
