@@ -1,3 +1,3 @@
 UPDATE: This project has been moved a WebApp Platform: 
-Visit Here: https:/https://share.gemini.google/svL5ilsYB6n0
+Visit Here: https://lectio-divina.github.io/lectio_divina_local/
 
